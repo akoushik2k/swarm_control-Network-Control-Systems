@@ -26,7 +26,13 @@ Download both the folders into your workspace
 - Step 1: Run init.m file in **Robotarium-Simulator**, this initializes the robotarium setup in the workspace.
 - Step 2: Run main.m in **ENME808T_Final_Project**, you can change the mission at start of the file.
 
-<p align="center">
-  <iframe width="600" height="340" src="https://www.youtube.com/embed/mQEtxhiHZHQ" 
-  frameborder="0" allowfullscreen></iframe>
-</p>
+<details>
+  <summary>Watch Video</summary>
+
+  <p align="center">
+    <a href="https://youtu.be/mQEtxhiHZHQ" target="_blank">
+      <img src="https://i9.ytimg.com/vi_webp/mQEtxhiHZHQ/mqdefault.webp?v=679d8bd9&sqp=CNiX9rwG&rs=AOn4CLACJ3woA6o_282VO3IkIyZQOXVtRQ" width="600">
+    </a>
+  </p>
+
+</details>
