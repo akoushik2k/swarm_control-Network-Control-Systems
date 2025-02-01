@@ -1,4 +1,4 @@
-# swarm_control-Network-Control-Systems
+# Leader Follower Network in a Closed Environment
 
 ## Overview
 This project is a real-robot implementation of distributed control systems in a multi-robot disinfection operation. It was developed as part of the **ENME 808T: Network Control Systems** course at the University of Maryland, Fall 2024.
