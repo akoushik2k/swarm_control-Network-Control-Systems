@@ -26,7 +26,6 @@ Download both the folders into your workspace
 - Step 1: Run init.m file in **Robotarium-Simulator**, this initializes the robotarium setup in the workspace.
 - Step 2: Run main.m in **ENME808T_Final_Project**, you can change the mission at start of the file.
 
-[📽️ Watch the Robotarium Simulation video](https://github.com/akoushik2k/swarm_control-Network-Control-Systems/blob/main/Final%20Video%20Robotarium.mp4)
 <details>
   <summary>Watch Video</summary>
 
