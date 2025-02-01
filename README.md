@@ -27,3 +27,13 @@ Download both the folders into your workspace
 - Step 2: Run main.m in **ENME808T_Final_Project**, you can change the mission at start of the file.
 
 [📽️ Watch the Robotarium Simulation video](https://github.com/akoushik2k/swarm_control-Network-Control-Systems/blob/main/Final%20Video%20Robotarium.mp4)
+<details>
+  <summary>Watch Video</summary>
+
+  <p align="center">
+    <a href="https://youtu.be/mQEtxhiHZHQ" target="_blank">
+      <img src="https://i9.ytimg.com/vi_webp/mQEtxhiHZHQ/mqdefault.webp?v=679d8bd9&sqp=CNiX9rwG&rs=AOn4CLACJ3woA6o_282VO3IkIyZQOXVtRQ" width="600">
+    </a>
+  </p>
+
+</details>
